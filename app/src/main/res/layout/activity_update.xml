@@ -15,10 +15,10 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_marginTop="16dp"
+        android:fontFamily="@font/poppins"
         android:text="Edit Note"
-        android:textColor="@color/orange"
-        android:textSize="24sp"
-        android:fontFamily="@font/poppins"/>
+        android:textColor="@color/green"
+        android:textSize="24sp" />
 
     <ImageView
         android:id="@+id/updateSaveButton"
